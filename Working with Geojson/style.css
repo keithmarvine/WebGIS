@@ -1,0 +1,12 @@
+#map {
+    height: 100vh;
+    width: 100%;
+}
+
+.leaflet-tooltip.county-label {
+  background-color: rgba(255, 255, 255, 0.8);
+  color: #333;
+  font-weight: bold;
+  border: none;
+  box-shadow: none;
+}
